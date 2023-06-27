@@ -1,0 +1,30 @@
+/* Text */
+
+.text-center {
+    text-align: center;
+}
+
+/* Colors */
+.bg-blue {
+    background: #007cba;
+}
+
+.bg-black {
+    background: black;
+}
+
+.bg-linkedin {
+    background: #0e76a8;
+}
+
+.bg-twitter {
+    background: #00acee;
+}
+
+.bg-instagram {
+    background: #dd2a7b;
+}
+
+.bg-github {
+    background: #171515;
+}
